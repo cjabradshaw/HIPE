@@ -8,13 +8,13 @@ clarification, please e-mail Corey Bradshaw at cjabradshaw@gmail.com.
 
 You will also need to download the following data files to a dedicated directory and update the setwd() command in the code accordingly:
 
-HIPE.refs.txt
-citation.csv
-VoteArticles.final.csv
-type.csv
-field.csv
-approach.csv
-nproposed.csv
+- HIPE.refs.txt
+- citation.csv
+- VoteArticles.final.csv
+- type.csv
+- field.csv
+- approach.csv
+- nproposed.csv
 
 CJA Bradshaw
 Flinders University
