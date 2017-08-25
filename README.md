@@ -16,6 +16,4 @@ You will also need to download the following data files to a dedicated directory
 - approach.csv
 - nproposed.csv
 
-CJA Bradshaw
-Flinders University
-25 August 2017
+CJA Bradshaw, Flinders University, 25 August 2017
