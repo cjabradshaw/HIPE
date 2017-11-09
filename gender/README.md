@@ -1,4 +1,4 @@
-R code and data files for Bradshaw and Courchamp (in review) 'Ecologists are gender-biased in their perceptions of important papers'
+R code and data files for Bradshaw and Courchamp (in review) 'Ecologists are gender-biased in their perceptions of important ecology papers' Nature Ecology and Evolution
 
 This repository includes the R code and data files needed to reproduce the analyses and results given in the aforementioned paper. Most is annotated such that an experienced user should be able to follow. If you require further instruction or clarification, please e-mail Corey Bradshaw at cjabradshaw@gmail.com.
 
