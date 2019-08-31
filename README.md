@@ -1,5 +1,5 @@
 # HIPE
-R code and data files for Courchamp and Bradshaw (2017) '100 papers every ecologist should read' Nature Ecology and Evolution https://doi.org/10.1038/s41559-017-0370-9
+R code and data files for Courchamp, F, CJA Bradshaw. 2017. 100 papers every ecologist should read. Nature Ecology and Evolution 2: 395-401 https://doi.org/10.1038/s41559-017-0370-9
 
 
 This repository includes the R code and data files needed to reproduce the analyses and results given in the aforementioned
