@@ -1,12 +1,15 @@
 # HIPE
-R code and data files for Courchamp, F, CJA Bradshaw. 2017. 100 papers every ecologist should read. Nature Ecology and Evolution 2: 395-401 https://doi.org/10.1038/s41559-017-0370-9
+
+R code and data files accompanying the paper:
+
+Courchamp, F, CJA Bradshaw. 2017. <a href="https://doi.org/10.1038/s41559-017-0370-9">100 papers every ecologist should read</a>. <em>Nature Ecology and Evolution</em> 2: 395-401
 
 
 This repository includes the R code and data files needed to reproduce the analyses and results given in the aforementioned
 paper. Most is annotated such that an experienced user should be able to follow. If you require further instruction or
 clarification, please e-mail Corey Bradshaw at cjabradshaw@gmail.com.
 
-You will also need to download the following data files to a dedicated directory and update the setwd() command in the code accordingly:
+You will also need to download the following data files to a dedicated directory and update the <code>setwd()</code> command in R accordingly:
 
 - HIPE.refs.txt
 - citation.csv
@@ -16,4 +19,6 @@ You will also need to download the following data files to a dedicated directory
 - approach.csv
 - nproposed.csv
 
-CJA Bradshaw, Flinders University, 25 August 2017
+CJA Bradshaw
+Flinders University
+25 August 2017
