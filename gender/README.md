@@ -1,6 +1,6 @@
 ## Gender bias
 
-<img align="right" src="gender/gender.png" alt="gender" width="200" style="margin-top: 20px">
+<img align="right" src="gender.png" alt="gender" width="200" style="margin-top: 20px">
 
 <em>R</em> code and data files associated with the following paper:
 
