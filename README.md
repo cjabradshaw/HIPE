@@ -11,6 +11,7 @@ Reading scientific articles is a valuable and major part of the activity of scie
 This repository includes the R code and <a href="https://github.com/cjabradshaw/HIPE/tree/master/data">data files</a> needed to reproduce the analyses and results given in the aforementioned
 paper. Most is annotated such that an experienced user should be able to follow.
 
+## Data
 You will also need to download the following data files to a dedicated directory and update the <code>setwd()</code> command in <em>R</em> accordingly:
 
 - HIPE.refs.txt
@@ -20,6 +21,11 @@ You will also need to download the following data files to a dedicated directory
 - field.csv
 - approach.csv
 - nproposed.csv
+
+## Required <em>R</em> libraries
+- <code>igraph</code>
+- <code>boot</code>
+- <code>Hmisc</code>
 
 <br>
 Prof <a href="http://scholar.google.com.au/citations?sortby=pubdate&hl=en&user=1sO0O3wAAAAJ&view_op=list_works">Corey J. A. Bradshaw</a> <br>
