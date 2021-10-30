@@ -1,5 +1,7 @@
 # HIPE (Highly Important Papers in Ecology)
 
+<img align="right" src="reading.png" alt="essential reading" width="200" style="margin-top: 20px">
+
 <em>R</em> code and data files accompanying the paper:
 
 <a href="https://www.ese.universite-paris-saclay.fr/en/team-members/franck-courchamp/">Courchamp, F</a>, <a href="http://scholar.google.com.au/citations?sortby=pubdate&hl=en&user=1sO0O3wAAAAJ&view_op=list_works">CJA Bradshaw</a>. 2017. <a href="https://doi.org/10.1038/s41559-017-0370-9">100 papers every ecologist should read</a>. <em>Nature Ecology and Evolution</em> 2: 395-401
