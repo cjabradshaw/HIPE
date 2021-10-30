@@ -27,6 +27,12 @@ You will also need to download the following data files to a dedicated directory
 - <code>boot</code>
 - <code>Hmisc</code>
 
+## Sister paper
+Note that the <a href="https://github.com/cjabradshaw/HIPE/tree/master/gender">gender</a> folder contains additional <em>R</em> code and data associated with the sister paper:
+
+Bradshaw, CJA, F Courchamp. 2018. <a href="http://doi.org/10.3897/rethinkingecology.3.24333">Gender bias when assessing recommended ecology articles</a>. <em>Rethinking Ecology</em> 3: 1-12
+
+
 <br>
 Prof <a href="http://scholar.google.com.au/citations?sortby=pubdate&hl=en&user=1sO0O3wAAAAJ&view_op=list_works">Corey J. A. Bradshaw</a> <br>
 <a href="http://globalecologyflinders.com" target="_blank">Global Ecology</a>, <a href="http://flinders.edu.au" target="_blank">Flinders University</a>, Adelaide, Australia <br>
