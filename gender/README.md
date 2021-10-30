@@ -11,7 +11,7 @@ Gender bias is still unfortunately rife in the sciences, and men co-author most 
 This repository includes the <em>R</em> code and data files needed to reproduce the analyses and results given in the aforementioned paper. Most is annotated such that an experienced user should be able to follow.
 
 ## Data
-In addition to the data files available in the mother directory 'HIPE', You will also need to download the following data files to a dedicated directory and update the <code>setwd()</a> command in <em>R</em> accordingly:
+In addition to the data files available in the mother directory 'HIPE', You will also need to download the following data files to a dedicated directory and update the <code>setwd()</code> command in <em>R</em> accordingly:
 
 - gender.csv
 - proposer.gender.csv
