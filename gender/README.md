@@ -16,6 +16,11 @@ In addition to the data files available in the mother directory 'HIPE', You will
 - gender.csv
 - proposer.gender.csv
 
+## Required <em>R</em> libraries
+- <code>igraph</code>
+- <code>boot</code>
+- <code>Hmisc</code>
+
 <br>
 Prof <a href="http://scholar.google.com.au/citations?sortby=pubdate&hl=en&user=1sO0O3wAAAAJ&view_op=list_works">Corey J. A. Bradshaw</a> <br>
 <a href="http://globalecologyflinders.com" target="_blank">Global Ecology</a>, <a href="http://flinders.edu.au" target="_blank">Flinders University</a>, Adelaide, Australia <br>
