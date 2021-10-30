@@ -1,5 +1,7 @@
 ## Gender bias
 
+<img align="right" src="gender/gender.png" alt="gender" width="200" style="margin-top: 20px">
+
 <em>R</em> code and data files associated with the following paper:
 
 Bradshaw, CJA, F Courchamp. 2018. <a href="http://doi.org/10.3897/rethinkingecology.3.24333">Gender bias when assessing recommended ecology articles</a>. <em>Rethinking Ecology</em> 3: 1-12
